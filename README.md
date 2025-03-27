@@ -7,3 +7,11 @@ This project explores global development trends using World Development Index (W
 ### Data Source
  
 This dataset was sourced from **Maven Analytics** and is available at: [Maven Analytics Data Playground](https://mavenanalytics.io/data-playground?page=3&pageSize=5).
+
+### Tools
+
+- Python
+- Microsoft PowerBI
+- Tableau
+
+### Imports
