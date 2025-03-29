@@ -59,4 +59,8 @@ The `wrangle` function is designed to clean and preprocess the dataset, ensuring
 
 ![Image](https://github.com/user-attachments/assets/047c9995-5920-45c3-9e33-379feb223a3d)
 
+### Data Visualization
 
+![Image](https://github.com/user-attachments/assets/95ffccf9-e022-4ae7-9bb4-3e0103043967)
+
+![Image](https://github.com/user-attachments/assets/a41e2a0e-4c42-40da-9216-f4de57181d79)
